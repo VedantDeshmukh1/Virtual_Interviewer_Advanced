@@ -43,7 +43,7 @@ The Virtual Interviewer is an innovative project that combines the power of larg
 
 5. Run the Virtual Interviewer:
    ```
-   python virtual_interviewer.py
+   python app.py
    ```
 
 ## Usage
@@ -79,7 +79,7 @@ We would like to express our gratitude to the developers and contributors of the
 
 ## Contact
 
-For any inquiries or feedback, please contact us at [email protected]
+For any inquiries or feedback, please contact [vedantdeshmukh1983@gmail.com]
 
 ---
 
