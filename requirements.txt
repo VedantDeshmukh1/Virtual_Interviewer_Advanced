@@ -1,0 +1,11 @@
+# -r requirements.txt
+
+assemblyai
+ffmpeg-python
+gtts
+langchain 
+PyPDF2     
+scipy   
+google-generativeai
+langchain_google_genai
+pypdf
